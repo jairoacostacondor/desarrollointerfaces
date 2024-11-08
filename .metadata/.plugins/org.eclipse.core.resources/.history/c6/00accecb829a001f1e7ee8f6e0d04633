@@ -1,0 +1,5 @@
+package ventanawindow;
+
+public interface Document {
+
+}
